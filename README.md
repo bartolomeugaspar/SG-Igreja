@@ -16,59 +16,80 @@ O **SGI (Sistema de Gestão de Igreja)** é uma aplicação desktop desenvolvida
 
 ## 🚀 Funcionalidades Principais
 
+### 🏗️ Framework Base para Gestão Eclesiástica
+Este sistema fornece uma **base sólida e extensível** para desenvolvimento de funcionalidades específicas de gestão de igreja, incluindo:
+
 ### 🔐 Sistema de Autenticação e Segurança
 - **Login Seguro**: Autenticação com criptografia de senhas
 - **Controle de Sessão**: Gerenciamento de usuários logados
-- **Recuperação de Senha**: Sistema de recuperação integrado
+- **Recuperação de Senha**: Sistema de recuperação por email integrado
 - **Configuração de Conexão**: Atalho especial (Ctrl+Shift+Alt+B) para configurar banco
+- **Tela de Bloqueio**: Sistema de bloqueio de acesso
 
-### 🎨 Interface e Controles Customizados
-- **ECTurbo_Botao**: Botões personalizados com design moderno
-- **ECTurbo_TextBox**: Campos de texto com validação automática
+### 🎨 Interface Moderna com 23 Controles Customizados ECTurbo
+- **ECTurbo_Botao**: Botões personalizados com gradientes e sombras
+- **ECTurbo_TextBox/TextBoxSenha**: Campos de texto com validação avançada
 - **ECTurbo_ComboBox**: Listas suspensas estilizadas
 - **ECTurbo_CheckBox/RadioButton**: Controles de seleção customizados
-- **ECTurbo_Grafico1-5**: Cinco tipos diferentes de gráficos para visualização
-- **ECTurbo_MenuLateral**: Menu lateral responsivo
+- **ECTurbo_Grafico1-5**: Cinco tipos diferentes de gráficos para dashboards
+- **ECTurbo_MenuLateral**: Menu lateral responsivo e moderno
 - **ECTurbo_BarraProgresso**: Indicadores de progresso visuais
-- **ECTurbo_Datas/Anos**: Controles especializados para datas
-- **ECTurbo_Numericos**: Campos numéricos com formatação
+- **ECTurbo_Datas/Anos/CbMeses**: Controles especializados para datas
+- **ECTurbo_Numericos**: Campos numéricos com formatação automática
 - **ECTurbo_MaskedTextBox**: Campos com máscara de entrada
 - **ECTurbo_Panel**: Painéis com bordas arredondadas
 - **ECTurbo_Separadores**: Separadores horizontais e verticais
+- **ECTurbo_ToggleButton**: Botões de alternância
+- **ECTurbo_Imagem**: Controle de imagem otimizado
 
 ### 🌐 Integração com APIs Externas
 - **Busca de CEP**: Consulta automática via ViaCEP
 - **Consulta de CNPJ**: Validação e busca de dados empresariais via BrasilAPI
-- **Requisições HTTP**: Sistema genérico para consumo de APIs
+- **Sistema de APIs**: Framework genérico para consumo de APIs REST
 
-### 🗄️ Gerenciamento de Dados
+### 🗄️ Camada de Dados Robusta
 - **MySQL Avançado**: Camada completa de acesso a dados
 - **Parâmetros Dinâmicos**: Sistema flexível de consultas parametrizadas
-- **CRUD Completo**: Operações de Create, Read, Update, Delete
+- **CRUD Genérico**: Operações de Create, Read, Update, Delete
 - **Busca Múltipla**: Pesquisa em múltiplos campos simultaneamente
-- **Grid Dinâmico**: Sistema de grid com paginação e formatação
+- **Grid Dinâmico**: Sistema de grid com paginação, cores alternadas e formatação
 
 ### 📊 Sistema de Relatórios
 - **ReportViewer**: Geração de relatórios integrada
 - **Exportação**: Múltiplos formatos de saída
 - **Visualização**: Interface moderna para relatórios
 
-### 🛠️ Utilitários e Funcionalidades Auxiliares
-- **Manipulação de Imagens**: Upload, redimensionamento e miniaturas
+### 📧 Sistema de Comunicação
+- **Envio de Email**: Sistema completo com anexos via SMTP
+- **Templates**: Sistema de mensagens padronizadas
+- **Notificações**: Alertas, erros e confirmações visuais
+
+### 🛠️ Utilitários Avançados (1300+ linhas de código)
+- **Manipulação de Imagens**: Upload, redimensionamento, miniaturas e comparação
 - **Seleção de Arquivos**: Interface para seleção única ou múltipla
-- **Envio de Email**: Sistema completo de envio com anexos
-- **Validações**: Sistema robusto de validação de dados
-- **Mensagens**: Sistema unificado de alertas, erros e confirmações
-- **Criptografia**: Funções de segurança e geração de chaves
+- **Validações**: Sistema robusto de validação de dados com feedback visual
+- **Criptografia**: Funções de segurança e geração de chaves aleatórias
 - **Formatação**: Formatação automática de números, datas e textos
 - **Estados/UF**: Dicionário completo de estados brasileiros
 
 ### 🎯 Recursos Especiais
-- **Modal Customizado**: Sistema de janelas modais com opacidade
-- **Limpeza Automática**: Limpeza inteligente de formulários
+- **Modal Customizado**: Sistema de janelas modais com opacidade configurável
+- **Limpeza Automática**: Limpeza inteligente de formulários com confirmação
 - **Tags Configuráveis**: Sistema de configuração via tags nos controles
 - **Cores Dinâmicas**: Manipulação e transparência de cores
 - **Paths Gráficos**: Criação de formas com bordas arredondadas
+- **Temas**: Suporte a temas visuais personalizáveis
+
+### 🚧 Módulos Prontos para Implementação
+O framework está preparado para receber os seguintes módulos específicos:
+
+- **👥 Gestão de Membros**: Cadastro completo de fiéis
+- **📚 Gestão de Catequese**: Controle de catequizandos e catequistas  
+- **💰 Gestão Financeira**: Dízimos, ofertas e controle de caixa
+- **📈 Relatórios Gerenciais**: Dashboards e relatórios específicos
+- **📅 Agenda de Eventos**: Missas, eventos e atividades
+- **🏛️ Patrimônio**: Controle de bens da igreja
+- **📋 Sacramentos**: Registro de batismos, casamentos, etc.
 
 ## 🛠️ Tecnologias Utilizadas
 
