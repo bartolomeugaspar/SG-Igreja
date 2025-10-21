@@ -1,0 +1,164 @@
+C:\Users\ediva\source\repos\ProjetoModelo2022\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.Form1.resources
+C:\Users\ediva\source\repos\ProjetoModelo2022\ProjetoModelo2022\obj\Debug\net8.0-windows\ECTurbo.Formularios.FormMsg.resources
+C:\Users\ediva\source\repos\ProjetoModelo2022\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.csproj.GenerateResource.cache
+C:\Users\ediva\source\repos\ProjetoModelo2022\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ediva\source\repos\ProjetoModelo2022\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.AssemblyInfoInputs.cache
+C:\Users\ediva\source\repos\ProjetoModelo2022\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.AssemblyInfo.cs
+C:\Users\ediva\source\repos\ProjetoModelo2022\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.csproj.CoreCompileInputs.cache
+C:\Users\ediva\source\repos\ProjetoModelo2022\ProjetoModelo2022\bin\Debug\net8.0-windows\ProjetoModelo2022.exe
+C:\Users\ediva\source\repos\ProjetoModelo2022\ProjetoModelo2022\bin\Debug\net8.0-windows\ProjetoModelo2022.deps.json
+C:\Users\ediva\source\repos\ProjetoModelo2022\ProjetoModelo2022\bin\Debug\net8.0-windows\ProjetoModelo2022.runtimeconfig.json
+C:\Users\ediva\source\repos\ProjetoModelo2022\ProjetoModelo2022\bin\Debug\net8.0-windows\ProjetoModelo2022.dll
+C:\Users\ediva\source\repos\ProjetoModelo2022\ProjetoModelo2022\bin\Debug\net8.0-windows\ProjetoModelo2022.pdb
+C:\Users\ediva\source\repos\ProjetoModelo2022\ProjetoModelo2022\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\ediva\source\repos\ProjetoModelo2022\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.csproj.AssemblyReference.cache
+C:\Users\ediva\source\repos\ProjetoModelo2022\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoM.AED1F933.Up2Date
+C:\Users\ediva\source\repos\ProjetoModelo2022\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.dll
+C:\Users\ediva\source\repos\ProjetoModelo2022\ProjetoModelo2022\obj\Debug\net8.0-windows\refint\ProjetoModelo2022.dll
+C:\Users\ediva\source\repos\ProjetoModelo2022\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.pdb
+C:\Users\ediva\source\repos\ProjetoModelo2022\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.genruntimeconfig.cache
+C:\Users\ediva\source\repos\ProjetoModelo2022\ProjetoModelo2022\obj\Debug\net8.0-windows\ref\ProjetoModelo2022.dll
+C:\Users\ediva\source\repos\ProjetoModelo2022\ProjetoModelo2022\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\ediva\source\repos\ProjetoModelo2022\ProjetoModelo2022\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\ProjetoModelo2022.exe
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\ProjetoModelo2022.dll.config
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\ProjetoModelo2022.deps.json
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\ProjetoModelo2022.runtimeconfig.json
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\ProjetoModelo2022.dll
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\ProjetoModelo2022.pdb
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.csproj.AssemblyReference.cache
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ECTurbo.Formularios.FormMsg.resources
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.Formularios.FrmConexaoMySQL.resources
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.Formularios.FrmPrincipal.resources
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.Properties.Resources.resources
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.csproj.GenerateResource.cache
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.AssemblyInfoInputs.cache
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.AssemblyInfo.cs
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.csproj.CoreCompileInputs.cache
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoM.AED1F933.Up2Date
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.dll
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\refint\ProjetoModelo2022.dll
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.pdb
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.genruntimeconfig.cache
+C:\Users\ediva\Desktop\MEU BACKUP\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ref\ProjetoModelo2022.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\ProjetoModelo2022.exe
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\ProjetoModelo2022.dll.config
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\ProjetoModelo2022.deps.json
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\ProjetoModelo2022.runtimeconfig.json
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\ProjetoModelo2022.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\ProjetoModelo2022.pdb
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.csproj.AssemblyReference.cache
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ECTurbo.Formularios.FormMsg.resources
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.Formularios.FrmConexaoMySQL.resources
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.Formularios.FrmPrincipal.resources
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.Properties.Resources.resources
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.csproj.GenerateResource.cache
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.AssemblyInfoInputs.cache
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.AssemblyInfo.cs
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.csproj.CoreCompileInputs.cache
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoM.AED1F933.Up2Date
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\refint\ProjetoModelo2022.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.pdb
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.genruntimeconfig.cache
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ref\ProjetoModelo2022.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.Formularios.FrmGRID_Modelo.resources
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\obj\Debug\net8.0-windows\ProjetoModelo2022.LinhasModeloGRID.Lst_Modelo.resources
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\System.ServiceModel.Http.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\System.ServiceModel.Security.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\System.ServiceModel.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\cs\System.ServiceModel.Http.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\de\System.ServiceModel.Http.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\es\System.ServiceModel.Http.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\fr\System.ServiceModel.Http.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\it\System.ServiceModel.Http.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\ja\System.ServiceModel.Http.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\ko\System.ServiceModel.Http.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\pl\System.ServiceModel.Http.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Http.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\ru\System.ServiceModel.Http.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\tr\System.ServiceModel.Http.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Http.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Http.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\cs\System.ServiceModel.Primitives.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\de\System.ServiceModel.Primitives.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\es\System.ServiceModel.Primitives.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\fr\System.ServiceModel.Primitives.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\it\System.ServiceModel.Primitives.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\ja\System.ServiceModel.Primitives.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\ko\System.ServiceModel.Primitives.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\pl\System.ServiceModel.Primitives.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Primitives.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\ru\System.ServiceModel.Primitives.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\tr\System.ServiceModel.Primitives.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Primitives.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Primitives.resources.dll
+C:\Users\ediva\OneDrive\Área de Trabalho\ECTurbo\Projetos Modelo\Configuração Bancos de Dados\ProjetoModelo2022 - MySQL\ProjetoModelo2022\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll

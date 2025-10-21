@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Controles\ECTurbo_Anos.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controles\ECTurbo_BarraProgresso.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controles\ECTurbo_Botao.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controles\ECTurbo_CbMeses.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controles\ECTurbo_CheckBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controles\ECTurbo_ComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controles\ECTurbo_Configuracoes.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controles\ECTurbo_Datas.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controles\ECTurbo_Grafico1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controles\ECTurbo_Grafico2.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controles\ECTurbo_Grafico3.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controles\ECTurbo_Grafico4.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controles\ECTurbo_Grafico5.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controles\ECTurbo_Imagem.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controles\ECTurbo_Label.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controles\ECTurbo_LabelProgresso.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controles\ECTurbo_MaskedTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controles\ECTurbo_MenuLateral.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controles\ECTurbo_Numericos.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controles\ECTurbo_Panel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controles\ECTurbo_RadioButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controles\ECTurbo_SeparadorHorizontal.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controles\ECTurbo_SeparadorVertical.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controles\ECTurbo_TextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controles\ECTurbo_TextBoxSenha.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controles\ECTurbo_ToggleButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Formularios\FormMsg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\FrmConexaoMySQL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\FrmGRID_Modelo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LinhasModeloGRID\Lst_Modelo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Formularios\FormMsg.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
