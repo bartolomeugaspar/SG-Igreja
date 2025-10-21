@@ -1,5 +1,9 @@
 # SGI - Sistema de Gestão de Igreja
 
+<div align="center">
+  <img src="b.png" alt="SGI Sistema" width="600"/>
+</div>
+
 ![.NET](https://img.shields.io/badge/.NET-8.0-blue)
 ![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-lightblue)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-orange)
