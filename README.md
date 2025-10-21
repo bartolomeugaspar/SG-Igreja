@@ -1,8 +1,5 @@
 # SGI - Sistema de Gestão de Igreja
 
-<div align="center">
-  <img src="b.png" alt="SGI Sistema" width="600"/>
-</div>
 
 ![.NET](https://img.shields.io/badge/.NET-8.0-blue)
 ![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-lightblue)
@@ -12,6 +9,10 @@
 ## 📋 Sobre o Projeto
 
 O **SGI (Sistema de Gestão de Igreja)** é uma aplicação desktop desenvolvida em C# com Windows Forms, projetada para auxiliar na administração e gestão de atividades eclesiásticas. O sistema oferece uma interface moderna e intuitiva para o gerenciamento completo das operações de uma igreja.
+
+<div align="center">
+  <img src="b.png" alt="SGI Sistema" width="600"/>
+</div>
 
 ## 🚀 Funcionalidades Principais
 
