@@ -16,13 +16,59 @@ O **SGI (Sistema de Gestão de Igreja)** é uma aplicação desktop desenvolvida
 
 ## 🚀 Funcionalidades Principais
 
-- **Sistema de Autenticação**: Login seguro com criptografia de senhas
-- **Gestão de Usuários**: Controle de acesso e permissões
-- **Interface Moderna**: Controles customizados com design responsivo
-- **Relatórios**: Sistema de relatórios integrado com ReportViewer
-- **Conectividade**: Integração completa com banco de dados MySQL
+### 🔐 Sistema de Autenticação e Segurança
+- **Login Seguro**: Autenticação com criptografia de senhas
+- **Controle de Sessão**: Gerenciamento de usuários logados
+- **Recuperação de Senha**: Sistema de recuperação integrado
+- **Configuração de Conexão**: Atalho especial (Ctrl+Shift+Alt+B) para configurar banco
+
+### 🎨 Interface e Controles Customizados
+- **ECTurbo_Botao**: Botões personalizados com design moderno
+- **ECTurbo_TextBox**: Campos de texto com validação automática
+- **ECTurbo_ComboBox**: Listas suspensas estilizadas
+- **ECTurbo_CheckBox/RadioButton**: Controles de seleção customizados
+- **ECTurbo_Grafico1-5**: Cinco tipos diferentes de gráficos para visualização
+- **ECTurbo_MenuLateral**: Menu lateral responsivo
+- **ECTurbo_BarraProgresso**: Indicadores de progresso visuais
+- **ECTurbo_Datas/Anos**: Controles especializados para datas
+- **ECTurbo_Numericos**: Campos numéricos com formatação
+- **ECTurbo_MaskedTextBox**: Campos com máscara de entrada
+- **ECTurbo_Panel**: Painéis com bordas arredondadas
+- **ECTurbo_Separadores**: Separadores horizontais e verticais
+
+### 🌐 Integração com APIs Externas
+- **Busca de CEP**: Consulta automática via ViaCEP
+- **Consulta de CNPJ**: Validação e busca de dados empresariais via BrasilAPI
+- **Requisições HTTP**: Sistema genérico para consumo de APIs
+
+### 🗄️ Gerenciamento de Dados
+- **MySQL Avançado**: Camada completa de acesso a dados
+- **Parâmetros Dinâmicos**: Sistema flexível de consultas parametrizadas
+- **CRUD Completo**: Operações de Create, Read, Update, Delete
+- **Busca Múltipla**: Pesquisa em múltiplos campos simultaneamente
+- **Grid Dinâmico**: Sistema de grid com paginação e formatação
+
+### 📊 Sistema de Relatórios
+- **ReportViewer**: Geração de relatórios integrada
+- **Exportação**: Múltiplos formatos de saída
+- **Visualização**: Interface moderna para relatórios
+
+### 🛠️ Utilitários e Funcionalidades Auxiliares
+- **Manipulação de Imagens**: Upload, redimensionamento e miniaturas
+- **Seleção de Arquivos**: Interface para seleção única ou múltipla
+- **Envio de Email**: Sistema completo de envio com anexos
 - **Validações**: Sistema robusto de validação de dados
-- **Busca Avançada**: Funcionalidades de pesquisa e filtros
+- **Mensagens**: Sistema unificado de alertas, erros e confirmações
+- **Criptografia**: Funções de segurança e geração de chaves
+- **Formatação**: Formatação automática de números, datas e textos
+- **Estados/UF**: Dicionário completo de estados brasileiros
+
+### 🎯 Recursos Especiais
+- **Modal Customizado**: Sistema de janelas modais com opacidade
+- **Limpeza Automática**: Limpeza inteligente de formulários
+- **Tags Configuráveis**: Sistema de configuração via tags nos controles
+- **Cores Dinâmicas**: Manipulação e transparência de cores
+- **Paths Gráficos**: Criação de formas com bordas arredondadas
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -47,25 +93,39 @@ O **SGI (Sistema de Gestão de Igreja)** é uma aplicação desktop desenvolvida
 ```
 SGI_Igreja/
 ├── 📁 Codigos/              # Classes de negócio e utilitários
-│   ├── APIs.cs              # Integração com APIs externas
-│   ├── BuscaCEP.cs          # Consulta de CEP
-│   ├── BuscaCNPJ.cs         # Consulta de CNPJ
-│   ├── Config.cs            # Configurações do sistema
-│   ├── Funcoes.cs           # Funções auxiliares e utilitários
-│   ├── GRID.cs              # Manipulação de grids
-│   └── MYSQL.cs             # Camada de acesso a dados
-├── 📁 Controles/            # Controles customizados
-│   ├── ECTurbo_Botao.cs     # Botões personalizados
-│   ├── ECTurbo_TextBox.cs   # Caixas de texto customizadas
-│   ├── ECTurbo_ComboBox.cs  # ComboBox personalizado
-│   └── [outros controles]   # Diversos controles UI
-├── 📁 Formularios/          # Formulários da aplicação
-│   ├── FrmLogin.cs          # Tela de login
-│   ├── FrmPrincipal.cs      # Formulário principal
-│   ├── FrmConexaoMySQL.cs   # Configuração de conexão
-│   └── [outros forms]       # Outros formulários
-├── 📁 LinhasModeloGRID/     # Modelos para grids
-├── 📁 Properties/           # Propriedades do projeto
+│   ├── APIs.cs              # Sistema genérico para consumo de APIs
+│   ├── BuscaCEP.cs          # Consulta automática de CEP via ViaCEP
+│   ├── BuscaCNPJ.cs         # Validação e consulta CNPJ via BrasilAPI
+│   ├── Config.cs            # Configurações gerais do sistema
+│   ├── Funcoes.cs           # 1300+ linhas de funções utilitárias
+│   ├── GRID.cs              # Sistema avançado de grids dinâmicos
+│   └── MYSQL.cs             # Camada completa de acesso a dados MySQL
+├── 📁 Controles/            # 23 Controles customizados ECTurbo
+│   ├── ECTurbo_Botao.cs     # Botões com design moderno
+│   ├── ECTurbo_TextBox.cs   # Campos de texto com validação
+│   ├── ECTurbo_ComboBox.cs  # ComboBox estilizado
+│   ├── ECTurbo_CheckBox.cs  # Checkbox personalizado
+│   ├── ECTurbo_Grafico1-5.cs# Cinco tipos de gráficos
+│   ├── ECTurbo_MenuLateral.cs# Menu lateral responsivo
+│   ├── ECTurbo_BarraProgresso.cs# Indicadores de progresso
+│   ├── ECTurbo_Datas.cs     # Controles especializados para datas
+│   ├── ECTurbo_Numericos.cs # Campos numéricos formatados
+│   ├── ECTurbo_Panel.cs     # Painéis com bordas arredondadas
+│   └── [outros 13 controles]# Diversos controles especializados
+├── 📁 Formularios/          # Interface do usuário
+│   ├── FrmLogin.cs          # Tela de autenticação
+│   ├── FrmPrincipal.cs      # Interface principal do sistema
+│   ├── FrmConexaoMySQL.cs   # Configuração de banco de dados
+│   ├── FormMsg.cs           # Sistema de mensagens unificado
+│   └── FrmGRID_Modelo.cs    # Template para grids
+├── 📁 LinhasModeloGRID/     # Modelos de linha para grids
+│   └── Lst_Modelo.cs        # Template base para listagens
+├── 📁 Resources/            # Recursos visuais
+│   ├── logo.jpg             # Logo do sistema
+│   ├── pomba.png            # Ícone religioso
+│   ├── icons8-*.png         # Ícones da interface
+│   └── [outros recursos]    # Imagens e ícones diversos
+├── 📁 Properties/           # Configurações do projeto
 └── Program.cs               # Ponto de entrada da aplicação
 ```
 
